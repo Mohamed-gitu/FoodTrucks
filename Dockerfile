@@ -1,5 +1,5 @@
 # start from base
-FROM ubuntu:latest
+FROM debian:latest
 
 LABEL maintainer="Prakhar Srivastav <prakhar@prakhar.me>"
 
