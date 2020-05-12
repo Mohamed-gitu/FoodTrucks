@@ -1,5 +1,6 @@
 # start from base
 FROM debian:latest
+FROM python:latest
 
 LABEL maintainer="Prakhar Srivastav <prakhar@prakhar.me>"
 
